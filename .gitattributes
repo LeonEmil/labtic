@@ -10,3 +10,4 @@
 fonts/110912-font-awesome/license/license.html filter=lfs diff=lfs merge=lfs -text
 fonts/110912-font-awesome/font/flaticon.html filter=lfs diff=lfs merge=lfs -text
 fonts/110912-font-awesome/font/flaticon.css filter=lfs diff=lfs merge=lfs -text
+style.css filter=lfs diff=lfs merge=lfs -text
